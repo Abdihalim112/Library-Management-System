@@ -152,7 +152,7 @@ header('location:manage-categories.php');
                                         </tr>
                                     </thead>
                                     <tbody>
-<?php $sql = "SELECT * from  xogta";
+<?php $sql = "SELECT * from  tblcategory";
 $query = $dbh -> prepare($sql);
 $query->execute();
 $results=$query->fetchAll(PDO::FETCH_OBJ);
