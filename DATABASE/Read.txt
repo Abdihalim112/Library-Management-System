@@ -1,0 +1,17 @@
+the password and username of the admin panel are 
+password: 123
+username : admin
+
+
+the library database name is librarymake sure to create a database before you run the files
+
+
+
+
+
+
+
+
+
+
+for any helping send me email Abdihalim112@gmail.com
