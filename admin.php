@@ -26,7 +26,7 @@ echo "<script>alert('Invalid Details');</script>";
 ?>
 
 
-
+	 <!------ADMIN PANEL SECTION-->
 
 
 
