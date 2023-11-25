@@ -80,6 +80,7 @@ return false;
 return true;
 }
 </script>
+<!-- Changing password  -->
 
 <body>
     <!------MENU SECTION START-->
