@@ -1,1 +1,1 @@
-you have to create new database called "Library" and after that import the sql file 
+you have to create new database called "Library" and after that import the sql file by clicking import
