@@ -17,7 +17,7 @@ Username: test@gmail.com
 Password: Test@123
 
 For Admin Panel
-
+admin
 Open Your browser put inside browser “http://localhost/library/admin”
 Login Details for admin : 
 Username: admin
