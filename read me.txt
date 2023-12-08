@@ -9,7 +9,7 @@ Open phpmyadmin
 Create Database library
 Import database library.sql (available inside zip package)
 
-For User
+For User user
 
 Open Your browser put inside browser “http://localhost/library”
 Login Details for user: 
