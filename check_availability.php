@@ -1,6 +1,6 @@
 <?php 
 require_once("includes/config.php");
-// code user email availablity
+// code user email availablity if your email available or not
 if(!empty($_POST["emailid"])) {
 	$email= $_POST["emailid"];
 	if (filter_var($email, FILTER_VALIDATE_EMAIL)===false) {
