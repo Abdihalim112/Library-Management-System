@@ -1,6 +1,8 @@
 <?php
 session_start();
 error_reporting(0);
+
+//user forget password
 include('includes/config.php');
 if(isset($_POST['change']))
 {
